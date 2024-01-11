@@ -41,3 +41,23 @@ Gaussian Process Regression: Adept in utilizing Gaussian process regression for 
 - B.Tech + M.Tech in Civil Engineering, IIT Kanpur
   
 I am enthusiastic about exploring new opportunities, collaborating on innovative projects, and contributing to the dynamic world of data science and machine learning.
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Programming
+#### Languages
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" /> 
+
+#### Tools
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pycharm.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jupyter.svg" />
+
+<br />
+<br />
+
+[instagram]: https://www.instagram.com/mohitcek/
+[linkedin]: https://www.linkedin.com/in/mohitcek/
