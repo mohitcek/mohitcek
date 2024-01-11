@@ -51,10 +51,10 @@ I am enthusiastic about exploring new opportunities, collaborating on innovative
 
 ### Programming
 #### Languages
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" /> 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/r.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" /> 
 
 #### Tools
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pycharm.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jupyter.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pycharm.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jupyter.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/spyderide.svg" />
 
 <br />
 <br />
