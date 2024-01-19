@@ -45,7 +45,6 @@ I am enthusiastic about exploring new opportunities, collaborating on innovative
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -59,5 +58,4 @@ I am enthusiastic about exploring new opportunities, collaborating on innovative
 <br />
 <br />
 
-[gmail]: mohitcek@gmail.com
 [linkedin]: https://www.linkedin.com/in/mohitcek/
