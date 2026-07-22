@@ -1,48 +1,76 @@
-### Hi there 👋
-
-<!--
-**mohitcek/mohitcek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-🚀 ABOUT ME
-
-Passionate about Data Science and Uncertainty Quantification | Ph.D. Graduate from Johns Hopkins University
-
-Welcome to my GitHub profile! I'm a highly motivated Ph.D. graduate from Johns Hopkins University, specializing in Active Machine Learning. My research journey focused on developing an active learning (ML) algorithm for global sensitivity analysis in large-scale wind tunnel experiments. This involved integrating wind tunnel experiments within an automated active learning framework, streamlining processes, minimizing human error, and significantly enhancing the rate of discovery.
-
-🔍 Key Highlights:
-
-- Active Learning Maven:
-  Pioneered the application of active learning algorithms to large-scale wind tunnel experiments, leveraging machine learning for global sensitivity analysis.
-- Python and Git Expertise:
-  Contributed significantly to the Python library 'UQpy' as a developer, accumulating six years of hands-on experience in Python and Git.
-- Master's in Applied Mathematics and Statistics:
-  My academic journey includes a master's degree that equipped me with a solid foundation in ML algorithms, such as SVM, random forests, and more. I specialize in Probability Theory, which forms the core of my research work in Uncertainty Quantification.
-
-📈 Technical Proficiency:
-
-Gaussian Process Regression: Adept in utilizing Gaussian process regression for implementing active learning algorithms, accumulating four years of hands-on experience.
-
+# Mohit Singh Chauhan
+ 
+Senior Data Scientist on the AI Governance team at CVS Health, working on
+hallucination detection, uncertainty quantification (UQ), and bias/fairness
+evaluation for LLMs and AI agents. PhD from Johns Hopkins University, where I
+developed active learning methods for uncertainty quantification in
+large-scale physical experiments.
+ 
+## Open-Source Toolkits
+ 
+- **[UQLM](https://github.com/cvs-health/uqlm)** ⭐ 1.2k — Uncertainty
+  Quantification for Language Models: UQ-based hallucination detection with
+  black-box, white-box, LLM-judge, and ensemble scorers. Co-creator and
+  maintainer.
+- **[LangFair](https://github.com/cvs-health/langfair)** ⭐ 260 —
+  Use-case-level LLM bias and fairness assessment library. Co-creator.
+- **[UQpy](https://github.com/SURGroup/UQpy)** ⭐ 360 — General-purpose
+  uncertainty quantification toolbox for physical and mathematical systems.
+  Core developer during my PhD (surrogate modeling, sensitivity analysis,
+  active learning modules).
+## Research
+ 
+**LLM Evaluation & Uncertainty Quantification — CVS Health**
+ 
+- **[Functional Entropy: Predicting Functional Correctness in LLM-Generated
+  Code with Uncertainty Quantification](https://arxiv.org/abs/2605.28500)** —
+  Systematic evaluation of UQ methods for code generation across 3 languages,
+  5 LLMs, and 1,700+ problems; introduces functional equivalence methods that
+  achieve top AUROC in 11/15 model–benchmark settings. Oral presentation,
+  SURGeLLM Workshop @ ACL 2026. Implemented as `CodeGenUQ` in UQLM.
+- **[UQLM: A Python Package for Uncertainty Quantification in Large Language
+  Models](https://jmlr.org/papers/v27/25-1557.html)** — *Journal of Machine
+  Learning Research*, 27(13):1–10, 2026. Software paper for the UQLM
+  hallucination-detection toolkit.
+<!-- Add when public: DECK taxonomy paper (under review) -->
+ 
+**Active Learning & UQ for Physical Systems — Johns Hopkins (PhD)**
+ 
+- **[Active Learning Applied to Automated Physical Systems Increases the Rate
+  of Discovery](https://doi.org/10.1038/s41598-023-35257-7)** — *Scientific
+  Reports*, 2023. Shows that Gaussian-process-based active learning transfers
+  from simulation to large-scale boundary layer wind tunnel experiments,
+  achieving in ~300 experiments a learning objective infeasible with
+  traditional experimental design.
+- **[On Active Learning for Gaussian Process-Based Global Sensitivity
+  Analysis](https://arxiv.org/abs/2308.14220)** — *Reliability Engineering &
+  System Safety*, 245:109945, 2024. Active learning strategies for adaptively
+  estimating Sobol indices, with a novel learning function demonstrated on
+  adaptive experimental design for wind tunnel experiments.
+ 
+## Academic Service
+ 
+- Reviewer, SURGeLLM Workshop @ ACL 2026
+- Session co-chair (interpretability), ACL 2026
+## Background
+ 
+My PhD focused on
+Bayesian optimization, global sensitivity analysis, and active learning for
+large-scale wind tunnel experiments — the same UQ foundations I now apply to
+evaluating LLMs and AI agents in healthcare.
+ 
 🎓 Education:
 
 - Ph.D. in Civil Engineering, Johns Hopkins University
 - Master's in Applied Mathematics and Statistics, Johns Hopkins University
 - B.Tech + M.Tech in Civil Engineering, IIT Kanpur
-  
-I am enthusiastic about exploring new opportunities, collaborating on innovative projects, and contributing to the dynamic world of data science and machine learning.
 
 ### Connect with me:
+
+📧 <mohitcek@gmail.com>
+🔗 [LinkedIn](https://www.linkedin.com/in/mohitcek/) ·
+[ORCID](https://orcid.org/0000-0002-7817-0427) ·
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=U70XbZoAAAAJ&view_op=list_works&sortby=pubdate)
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
